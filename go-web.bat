@@ -1,2 +1,2 @@
-runtime\python.exe infer-web.py --pycmd runtime\python.exe --port 7897
+F:\learn\AI\carr001\venv\Scripts\python infer-web.py --pycmd  F:\learn\AI\carr001\venv\Scripts\python --port 7897
 pause
